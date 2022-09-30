@@ -27,8 +27,8 @@
     "**/.*/**",
     "**/.vscode",
     "**/.vscode/**"
-],
-"files.associations": {
+  ],
+  "files.associations": {
     "cstdio": "cpp",
     "cmath": "cpp",
     "compare": "cpp",
@@ -71,5 +71,5 @@
     "ostream": "cpp",
     "stdexcept": "cpp",
     "streambuf": "cpp"
-}
+  }
 }
